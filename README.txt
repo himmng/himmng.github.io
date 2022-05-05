@@ -1,1 +1,1 @@
-Please redirect to https://himmng.gihub.io
+Please redirect to https://himmng.github.io
